@@ -12,7 +12,7 @@ spring:
     database: MySQL
     show-sql: true
     open-in-view: true
-   rabbitmq:
+  rabbitmq:
     host: 192.168.126.99
     port: 5672
     username: guest
